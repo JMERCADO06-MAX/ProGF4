@@ -1,0 +1,277 @@
+2026-11-22 14:55:24,810 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 14:55:24,811 - INFO - Cliente registrado: C001
+2026-11-22 14:55:24,812 - INFO - Cliente registrado: C002
+2026-11-22 14:55:24,812 - INFO - Cliente registrado: C003
+2026-11-22 14:55:24,812 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 14:55:24,813 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 14:55:24,814 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 14:55:24,815 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 14:58:22,324 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 14:58:22,325 - INFO - Cliente registrado: C001
+2026-11-22 14:58:22,325 - INFO - Cliente registrado: C002
+2026-11-22 14:58:22,325 - INFO - Cliente registrado: C003
+2026-11-22 14:58:22,325 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 14:58:22,325 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 14:58:22,326 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 14:58:22,326 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:00:08,431 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:00:08,432 - INFO - Cliente registrado: C001
+2026-11-22 15:00:08,432 - INFO - Cliente registrado: C002
+2026-11-22 15:00:08,432 - INFO - Cliente registrado: C003
+2026-11-22 15:00:08,432 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:00:08,433 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:00:08,433 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:00:08,433 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:01:07,359 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:01:07,359 - INFO - Cliente registrado: C001
+2026-11-22 15:01:07,360 - INFO - Cliente registrado: C002
+2026-11-22 15:01:07,360 - INFO - Cliente registrado: C003
+2026-11-22 15:01:07,360 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:01:07,361 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:01:07,361 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:01:07,362 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:01:24,697 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:01:24,698 - INFO - Cliente registrado: C001
+2026-11-22 15:01:24,698 - INFO - Cliente registrado: C002
+2026-11-22 15:01:24,698 - INFO - Cliente registrado: C003
+2026-11-22 15:01:24,698 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:01:24,699 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:01:24,699 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:01:24,699 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:06:19,979 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:06:19,980 - INFO - Cliente registrado: C001
+2026-11-22 15:06:19,980 - INFO - Cliente registrado: C002
+2026-11-22 15:06:19,980 - INFO - Cliente registrado: C003
+2026-11-22 15:06:19,981 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:06:19,981 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:06:19,982 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:06:19,983 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:12:55,414 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:12:55,414 - INFO - Cliente registrado: C001
+2026-11-22 15:12:55,415 - INFO - Cliente registrado: C002
+2026-11-22 15:12:55,415 - INFO - Cliente registrado: C003
+2026-11-22 15:12:55,415 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:12:55,415 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:12:55,416 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:12:55,416 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:15:44,573 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:15:44,574 - INFO - Cliente registrado: C001
+2026-11-22 15:15:44,574 - INFO - Cliente registrado: C002
+2026-11-22 15:15:44,574 - INFO - Cliente registrado: C003
+2026-11-22 15:15:44,574 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:15:44,574 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:15:44,575 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:15:44,575 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:16:48,877 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:16:48,878 - INFO - Cliente registrado: C001
+2026-11-22 15:16:48,878 - INFO - Cliente registrado: C002
+2026-11-22 15:16:48,878 - INFO - Cliente registrado: C003
+2026-11-22 15:16:48,878 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:16:48,879 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:16:48,879 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:16:48,880 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:22:12,770 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:22:12,771 - INFO - Cliente registrado: C001
+2026-11-22 15:22:12,771 - INFO - Cliente registrado: C002
+2026-11-22 15:22:12,771 - INFO - Cliente registrado: C003
+2026-11-22 15:22:12,772 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:22:12,772 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:22:12,773 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:22:12,774 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:25:12,267 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:25:12,267 - INFO - Cliente registrado: C001
+2026-11-22 15:25:12,267 - INFO - Cliente registrado: C002
+2026-11-22 15:25:12,267 - INFO - Cliente registrado: C003
+2026-11-22 15:25:12,268 - INFO - Cliente Juan Pérez registrado correctamente.
+2026-11-22 15:25:12,269 - INFO - Cliente María Gómez registrado correctamente.
+2026-11-22 15:25:12,270 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:25:12,270 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:31:19,133 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:31:19,133 - INFO - Cliente registrado: C001
+2026-11-22 15:31:19,133 - INFO - Cliente registrado: C002
+2026-11-22 15:31:19,133 - INFO - Cliente registrado: C003
+2026-11-22 15:31:19,133 - INFO - Cliente Juan Perez registrado correctamente.
+2026-11-22 15:31:19,134 - INFO - Cliente Maria Gomez registrado correctamente.
+2026-11-22 15:31:19,134 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:31:19,134 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:31:19,135 - INFO - Servicio Sala de reuniones agregado correctamente.
+2026-11-22 15:31:19,135 - INFO - Servicio Alquiler de computador agregado correctamente.
+2026-11-22 15:31:19,136 - INFO - Servicio Asesoria tecnologica agregado correctamente.
+2026-11-22 15:31:19,136 - ERROR - Prueba 'Agregar servicio duplicado': Ya existe un servicio con ese identificador.
+2026-11-22 15:31:19,136 - INFO - Reserva R001 creada correctamente.
+2026-11-22 15:31:19,137 - INFO - Reserva R001 agregada al sistema.
+2026-11-22 15:31:19,138 - INFO - Reserva R001 confirmada.
+2026-11-22 15:31:19,139 - INFO - Reserva R001 procesada.
+2026-11-22 15:31:19,140 - INFO - Reserva R002 creada correctamente.
+2026-11-22 15:31:19,140 - INFO - Reserva R002 agregada al sistema.
+2026-11-22 15:31:19,142 - INFO - Reserva R002 confirmada.
+2026-11-22 15:31:19,142 - INFO - Reserva R003 creada correctamente.
+2026-11-22 15:31:19,142 - INFO - Reserva R003 agregada al sistema.
+2026-11-22 15:31:19,142 - INFO - Reserva R003 confirmada.
+2026-11-22 15:31:19,144 - INFO - Reserva R003 cancelada.
+2026-11-22 15:31:19,144 - ERROR - Prueba 'Procesar reserva cancelada': Solo se pueden procesar reservas confirmadas.
+2026-11-22 15:31:19,144 - ERROR - Prueba 'Confirmar reserva procesada': La reserva no se encuentra pendiente.
+2026-11-22 15:31:19,145 - INFO - Cliente registrado: C004
+2026-11-22 15:31:19,145 - ERROR - Prueba 'Crear reserva con cliente no registrado': El cliente no esta registrado en el sistema.
+2026-11-22 15:31:19,145 - ERROR - Prueba 'Crear reserva con duracion invalida': La duracion debe ser mayor que cero.
+2026-11-22 15:31:19,145 - INFO - Disponibilidad del servicio S004: False
+2026-11-22 15:31:19,145 - INFO - Servicio Sala ocupada agregado correctamente.
+2026-11-22 15:31:19,145 - INFO - Reserva R006 creada correctamente.
+2026-11-22 15:31:19,146 - INFO - Reserva R006 agregada al sistema.
+2026-11-22 15:31:19,146 - ERROR - Prueba 'Confirmar servicio no disponible': El servicio seleccionado no esta disponible.
+2026-11-22 15:31:19,146 - ERROR - Prueba 'Buscar reserva inexistente': No se encontro una reserva con ese identificador.
+2026-11-22 15:31:19,146 - INFO - Reserva R007 creada correctamente.
+2026-11-22 15:31:19,146 - INFO - Reserva R007 agregada al sistema.
+2026-11-22 15:31:19,146 - ERROR - Error al confirmar la reserva R007.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+2026-11-22 15:31:19,148 - ERROR - Prueba de encadenamiento de excepciones.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 963, in main
+    reserva_encadenada.confirmar()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 627, in confirmar
+    raise ErrorReserva("La reserva no pudo ser confirmada.") from error
+ErrorReserva: La reserva no pudo ser confirmada.
+2026-11-22 15:31:19,152 - INFO - Programa Software FJ finalizado correctamente.
+2026-11-22 15:32:12,494 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:32:12,495 - INFO - Cliente registrado: C001
+2026-11-22 15:32:12,495 - INFO - Cliente registrado: C002
+2026-11-22 15:32:12,495 - INFO - Cliente registrado: C003
+2026-11-22 15:32:12,496 - INFO - Cliente Juan Perez registrado correctamente.
+2026-11-22 15:32:12,496 - INFO - Cliente Maria Gomez registrado correctamente.
+2026-11-22 15:32:12,496 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:32:12,497 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:32:12,497 - INFO - Servicio Sala de reuniones agregado correctamente.
+2026-11-22 15:32:12,497 - INFO - Servicio Alquiler de computador agregado correctamente.
+2026-11-22 15:32:12,497 - INFO - Servicio Asesoria tecnologica agregado correctamente.
+2026-11-22 15:32:12,498 - ERROR - Prueba 'Agregar servicio duplicado': Ya existe un servicio con ese identificador.
+2026-11-22 15:32:12,498 - INFO - Reserva R001 creada correctamente.
+2026-11-22 15:32:12,498 - INFO - Reserva R001 agregada al sistema.
+2026-11-22 15:32:12,498 - INFO - Reserva R001 confirmada.
+2026-11-22 15:32:12,499 - INFO - Reserva R001 procesada.
+2026-11-22 15:32:12,499 - INFO - Reserva R002 creada correctamente.
+2026-11-22 15:32:12,499 - INFO - Reserva R002 agregada al sistema.
+2026-11-22 15:32:12,499 - INFO - Reserva R002 confirmada.
+2026-11-22 15:32:12,500 - INFO - Reserva R003 creada correctamente.
+2026-11-22 15:32:12,501 - INFO - Reserva R003 agregada al sistema.
+2026-11-22 15:32:12,501 - INFO - Reserva R003 confirmada.
+2026-11-22 15:32:12,502 - INFO - Reserva R003 cancelada.
+2026-11-22 15:32:12,503 - ERROR - Prueba 'Procesar reserva cancelada': Solo se pueden procesar reservas confirmadas.
+2026-11-22 15:32:12,506 - ERROR - Prueba 'Confirmar reserva procesada': La reserva no se encuentra pendiente.
+2026-11-22 15:32:12,506 - INFO - Cliente registrado: C004
+2026-11-22 15:32:12,507 - ERROR - Prueba 'Crear reserva con cliente no registrado': El cliente no esta registrado en el sistema.
+2026-11-22 15:32:12,507 - ERROR - Prueba 'Crear reserva con duracion invalida': La duracion debe ser mayor que cero.
+2026-11-22 15:32:12,507 - INFO - Disponibilidad del servicio S004: False
+2026-11-22 15:32:12,507 - INFO - Servicio Sala ocupada agregado correctamente.
+2026-11-22 15:32:12,507 - INFO - Reserva R006 creada correctamente.
+2026-11-22 15:32:12,508 - INFO - Reserva R006 agregada al sistema.
+2026-11-22 15:32:12,508 - ERROR - Prueba 'Confirmar servicio no disponible': El servicio seleccionado no esta disponible.
+2026-11-22 15:32:12,508 - ERROR - Prueba 'Buscar reserva inexistente': No se encontro una reserva con ese identificador.
+2026-11-22 15:32:12,508 - INFO - Reserva R007 creada correctamente.
+2026-11-22 15:32:12,508 - INFO - Reserva R007 agregada al sistema.
+2026-11-22 15:32:12,509 - ERROR - Error al confirmar la reserva R007.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+2026-11-22 15:32:12,510 - ERROR - Prueba de encadenamiento de excepciones.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 963, in main
+    reserva_encadenada.confirmar()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 627, in confirmar
+    raise ErrorReserva("La reserva no pudo ser confirmada.") from error
+ErrorReserva: La reserva no pudo ser confirmada.
+2026-11-22 15:32:12,520 - INFO - Programa Software FJ finalizado correctamente.
+2026-11-22 15:33:18,432 - INFO - Sistema Software FJ iniciado correctamente.
+2026-11-22 15:33:18,432 - INFO - Cliente registrado: C001
+2026-11-22 15:33:18,433 - INFO - Cliente registrado: C002
+2026-11-22 15:33:18,433 - INFO - Cliente registrado: C003
+2026-11-22 15:33:18,433 - INFO - Cliente Juan Perez registrado correctamente.
+2026-11-22 15:33:18,433 - INFO - Cliente Maria Gomez registrado correctamente.
+2026-11-22 15:33:18,434 - INFO - Cliente Carlos Ruiz registrado correctamente.
+2026-11-22 15:33:18,434 - ERROR - Prueba 'Registrar cliente duplicado': Ya existe un cliente con ese identificador.
+2026-11-22 15:33:18,435 - INFO - Servicio Sala de reuniones agregado correctamente.
+2026-11-22 15:33:18,435 - INFO - Servicio Alquiler de computador agregado correctamente.
+2026-11-22 15:33:18,435 - INFO - Servicio Asesoria tecnologica agregado correctamente.
+2026-11-22 15:33:18,436 - ERROR - Prueba 'Agregar servicio duplicado': Ya existe un servicio con ese identificador.
+2026-11-22 15:33:18,436 - INFO - Reserva R001 creada correctamente.
+2026-11-22 15:33:18,436 - INFO - Reserva R001 agregada al sistema.
+2026-11-22 15:33:18,437 - INFO - Reserva R001 confirmada.
+2026-11-22 15:33:18,437 - INFO - Reserva R001 procesada.
+2026-11-22 15:33:18,438 - INFO - Reserva R002 creada correctamente.
+2026-11-22 15:33:18,441 - INFO - Reserva R002 agregada al sistema.
+2026-11-22 15:33:18,442 - INFO - Reserva R002 confirmada.
+2026-11-22 15:33:18,443 - INFO - Reserva R003 creada correctamente.
+2026-11-22 15:33:18,443 - INFO - Reserva R003 agregada al sistema.
+2026-11-22 15:33:18,444 - INFO - Reserva R003 confirmada.
+2026-11-22 15:33:18,445 - INFO - Reserva R003 cancelada.
+2026-11-22 15:33:18,445 - ERROR - Prueba 'Procesar reserva cancelada': Solo se pueden procesar reservas confirmadas.
+2026-11-22 15:33:18,445 - ERROR - Prueba 'Confirmar reserva procesada': La reserva no se encuentra pendiente.
+2026-11-22 15:33:18,446 - INFO - Cliente registrado: C004
+2026-11-22 15:33:18,448 - ERROR - Prueba 'Crear reserva con cliente no registrado': El cliente no esta registrado en el sistema.
+2026-11-22 15:33:18,449 - ERROR - Prueba 'Crear reserva con duracion invalida': La duracion debe ser mayor que cero.
+2026-11-22 15:33:18,451 - INFO - Disponibilidad del servicio S004: False
+2026-11-22 15:33:18,451 - INFO - Servicio Sala ocupada agregado correctamente.
+2026-11-22 15:33:18,451 - INFO - Reserva R006 creada correctamente.
+2026-11-22 15:33:18,451 - INFO - Reserva R006 agregada al sistema.
+2026-11-22 15:33:18,454 - ERROR - Prueba 'Confirmar servicio no disponible': El servicio seleccionado no esta disponible.
+2026-11-22 15:33:18,454 - ERROR - Prueba 'Buscar reserva inexistente': No se encontro una reserva con ese identificador.
+2026-11-22 15:33:18,456 - INFO - Reserva R007 creada correctamente.
+2026-11-22 15:33:18,456 - INFO - Reserva R007 agregada al sistema.
+2026-11-22 15:33:18,456 - ERROR - Error al confirmar la reserva R007.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+2026-11-22 15:33:18,462 - ERROR - Prueba de encadenamiento de excepciones.
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 608, in confirmar
+    self.costo = self.servicio.calcular_costo(self.duracion, **self.opciones)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 423, in calcular_costo
+    raise ErrorServicio("La cantidad de equipos debe ser un entero positivo.")
+ErrorServicio: La cantidad de equipos debe ser un entero positivo.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 963, in main
+    reserva_encadenada.confirmar()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "c:\Users\JMERCADO\Documents\GitHub\ProGF4\TAREA FASE 4.py", line 627, in confirmar
+    raise ErrorReserva("La reserva no pudo ser confirmada.") from error
+ErrorReserva: La reserva no pudo ser confirmada.
+2026-11-22 15:33:18,481 - INFO - Programa Software FJ finalizado correctamente.
